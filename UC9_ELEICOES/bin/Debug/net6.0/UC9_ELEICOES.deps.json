@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "UC9_ELEICOES/1.0.0": {
+        "runtime": {
+          "UC9_ELEICOES.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UC9_ELEICOES/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\mateus.rsilva30\source\repos\UC9_ELEICOES\UC9_ELEICOES\obj\Debug\net6.0\UC9_ELEICOES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateus.rsilva30\source\repos\UC9_ELEICOES\UC9_ELEICOES\obj\Debug\net6.0\UC9_ELEICOES.AssemblyInfoInputs.cache
+C:\Users\mateus.rsilva30\source\repos\UC9_ELEICOES\UC9_ELEICOES\obj\Debug\net6.0\UC9_ELEICOES.AssemblyInfo.cs
+C:\Users\mateus.rsilva30\source\repos\UC9_ELEICOES\UC9_ELEICOES\obj\Debug\net6.0\UC9_ELEICOES.csproj.CoreCompileInputs.cache
+C:\Users\mateus.rsilva30\source\repos\UC9_ELEICOES\UC9_ELEICOES\bin\Debug\net6.0\UC9_ELEICOES.exe
+C:\Users\mateus.rsilva30\source\repos\UC9_ELEICOES\UC9_ELEICOES\bin\Debug\net6.0\UC9_ELEICOES.deps.json
+C:\Users\mateus.rsilva30\source\repos\UC9_ELEICOES\UC9_ELEICOES\bin\Debug\net6.0\UC9_ELEICOES.runtimeconfig.json
+C:\Users\mateus.rsilva30\source\repos\UC9_ELEICOES\UC9_ELEICOES\bin\Debug\net6.0\UC9_ELEICOES.dll
+C:\Users\mateus.rsilva30\source\repos\UC9_ELEICOES\UC9_ELEICOES\bin\Debug\net6.0\ref\UC9_ELEICOES.dll
+C:\Users\mateus.rsilva30\source\repos\UC9_ELEICOES\UC9_ELEICOES\bin\Debug\net6.0\UC9_ELEICOES.pdb
+C:\Users\mateus.rsilva30\source\repos\UC9_ELEICOES\UC9_ELEICOES\obj\Debug\net6.0\UC9_ELEICOES.dll
+C:\Users\mateus.rsilva30\source\repos\UC9_ELEICOES\UC9_ELEICOES\obj\Debug\net6.0\ref\UC9_ELEICOES.dll
+C:\Users\mateus.rsilva30\source\repos\UC9_ELEICOES\UC9_ELEICOES\obj\Debug\net6.0\UC9_ELEICOES.pdb
+C:\Users\mateus.rsilva30\source\repos\UC9_ELEICOES\UC9_ELEICOES\obj\Debug\net6.0\UC9_ELEICOES.genruntimeconfig.cache
+C:\Users\mateus.rsilva30\source\repos\UC9_ELEICOES\UC9_ELEICOES\obj\Debug\net6.0\UC9_ELEICOES.csproj.AssemblyReference.cache
